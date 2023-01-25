@@ -6,3 +6,4 @@ gala
 golden delicious
 honey crisp
 red delicious
+shiny apples
